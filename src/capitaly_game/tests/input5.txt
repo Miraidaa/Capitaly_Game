@@ -1,0 +1,15 @@
+8
+lucky 100
+service 1500
+property
+property
+service 1800
+property
+lucky 300
+property
+3
+Zarina tactical
+Ruslan greedy
+Kanykei careful
+6 4 3 2 1 4 6 5 3 2 1 5 4 6 2 3 1 5 6 4 3 1 6 5 2 3 4 1 5 2 3 6 4
+2 3 5 6 4 1 2 5 6 3 1 4 2 3 5 6 1 4 2 5 6 3 1 4 2 5 3 6 2 1 4
